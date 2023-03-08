@@ -1,0 +1,1 @@
+var balloon1 = document.getElementById('balloon1');
